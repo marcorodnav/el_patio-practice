@@ -544,3 +544,22 @@ form {
     display: block;
     margin-top: 35px;
 }
+
+footer {
+    padding: 35px 0;
+    text-align: center;
+}
+
+footer h6 {
+    position: relative;
+    display: block;
+    text-align: center;
+    color: #faa832;
+    font-size: 21px;
+    margin: 0;
+    font-weight: normal;
+}
+
+footer span {
+    font-size: 16px;
+}
